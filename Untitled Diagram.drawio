@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-02T16:12:51.816Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="hiWYr93nOlDmv-SmOXuV" version="13.8.8" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-11-02T16:14:06.477Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="ViWN4W1wYoigilq95-Ks" version="13.8.8" type="github" pages="7">
   <diagram id="LC1SXInw6pgPKyB98dLc" name="Page-1">
     <mxGraphModel dx="1279" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -461,7 +461,7 @@
           <mxGeometry y="178" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="SDK3FCmpt0KHDNbfEREQ-15" value="tbl_admin" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="G-Pi96nnO0FFx--iudD2-1" vertex="1">
-          <mxGeometry x="40" y="400" width="140" height="130" as="geometry" />
+          <mxGeometry x="40" y="400" width="140" height="156" as="geometry" />
         </mxCell>
         <mxCell id="SDK3FCmpt0KHDNbfEREQ-16" value="+ id_admin" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="SDK3FCmpt0KHDNbfEREQ-15" vertex="1">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
@@ -474,6 +474,9 @@
         </mxCell>
         <mxCell id="SDK3FCmpt0KHDNbfEREQ-18" value="+ pass_admin" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="SDK3FCmpt0KHDNbfEREQ-15" vertex="1">
           <mxGeometry y="104" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="itZPbLWw5ipE6WcgRLCF-0" value="+ role_admin" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SDK3FCmpt0KHDNbfEREQ-15">
+          <mxGeometry y="130" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="SDK3FCmpt0KHDNbfEREQ-20" value="tbl_transaction" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="G-Pi96nnO0FFx--iudD2-1" vertex="1">
           <mxGeometry x="260" y="90" width="140" height="286" as="geometry" />
