@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T08:19:00.283Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="QOPZsUkYG1tMupHEPUIl" version="13.9.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-11-11T14:25:49.806Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="03eLJUbfJ2lBGPfMvR07" version="13.9.2" type="github" pages="7">
   <diagram id="LC1SXInw6pgPKyB98dLc" name="Page-1">
     <mxGraphModel dx="1279" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -554,7 +554,7 @@
           <mxGeometry y="104" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="zwWqgu0mJebY-9OKSKqj-5" value="tbl_confirmation" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="G-Pi96nnO0FFx--iudD2-1" vertex="1">
-          <mxGeometry x="620" y="70" width="140" height="286" as="geometry" />
+          <mxGeometry x="560" y="66" width="140" height="234" as="geometry" />
         </mxCell>
         <mxCell id="zwWqgu0mJebY-9OKSKqj-6" value="+ id_confirmation" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="zwWqgu0mJebY-9OKSKqj-5" vertex="1">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
@@ -574,17 +574,11 @@
         <mxCell id="zwWqgu0mJebY-9OKSKqj-10" value="+ transfer_date" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="zwWqgu0mJebY-9OKSKqj-5" vertex="1">
           <mxGeometry y="156" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="zwWqgu0mJebY-9OKSKqj-11" value="+ total_transfer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="zwWqgu0mJebY-9OKSKqj-5" vertex="1">
+        <mxCell id="zwWqgu0mJebY-9OKSKqj-12" value="+ total_payment" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="zwWqgu0mJebY-9OKSKqj-5" vertex="1">
           <mxGeometry y="182" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="zwWqgu0mJebY-9OKSKqj-12" value="+ total_payment" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="zwWqgu0mJebY-9OKSKqj-5" vertex="1">
-          <mxGeometry y="208" width="140" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="zwWqgu0mJebY-9OKSKqj-13" value="+ bank_transfer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="zwWqgu0mJebY-9OKSKqj-5" vertex="1">
-          <mxGeometry y="234" width="140" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="zwWqgu0mJebY-9OKSKqj-14" value="+ pic_payment" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="zwWqgu0mJebY-9OKSKqj-5" vertex="1">
-          <mxGeometry y="260" width="140" height="26" as="geometry" />
+          <mxGeometry y="208" width="140" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
